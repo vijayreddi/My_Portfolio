@@ -57,12 +57,12 @@ export default function Home() {
             <ThemeToggle />
             <div className="flex gap-4">
               <Button variant="outline" size="icon">
-                <a href="https://github.com/vijayreddy" target="_blank" rel="noopener noreferrer">
+                <a href="https://github.com/vijayreddi" target="_blank" rel="noopener noreferrer">
                   <Github className="h-5 w-5" />
                 </a>
               </Button>
               <Button variant="outline" size="icon">
-                <a href="https://linkedin.com/in/vijayreddy" target="_blank" rel="noopener noreferrer">
+                <a href="https://www.linkedin.com/in/vijay-reddy-padegapati-12122001vj/" target="_blank" rel="noopener noreferrer">
                   <Linkedin className="h-5 w-5" />
                 </a>
               </Button>
